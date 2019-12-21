@@ -1,7 +1,14 @@
 # ANPR
 Automatic Number Plate Recognition using YOLOv3 and FasterRCNN
 
+Please refer the pdf for more information about the models. 
+
+All the code we used for training is from the links provided below. All the files provided in the repository have to be appended to the 'darknet/build/darknet/x64/' directory to be able to run the jupyter notebook scripts. Please make sure that you have all the necessary libraries (with proper versions as mentioned in the pdf) installed before trying to run any scripts from the repo.
+
+
+
 References:
+
 YOLOv3 models:
 1. https://github.com/AlexeyAB/darknet
 2. https://github.com/Vic-TheGreat/VG_AlexeyAB_darknet
