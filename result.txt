@@ -1,0 +1,59 @@
+Total BFLOPS 65.290 
+
+ seen 64 
+Enter Image Path: exp_plate/predict_images/Israeli_72.jpg: Predicted in 14.792000 milli-seconds.
+license_plate: 100%	(left_x:   82   top_y:   59   width:  138   height:   72)
+Enter Image Path: exp_plate/predict_images/Israeli_100.jpg: Predicted in 16.022000 milli-seconds.
+license_plate: 91%	(left_x:   96   top_y:   90   width:   46   height:   16)
+Enter Image Path: exp_plate/predict_images/Dubai_288.jpg: Predicted in 16.461000 milli-seconds.
+license_plate: 82%	(left_x:  251   top_y:  182   width:  179   height:   43)
+Enter Image Path: exp_plate/predict_images/Dubai_251.jpg: Predicted in 14.730000 milli-seconds.
+license_plate: 100%	(left_x:  164   top_y:  318   width:  144   height:   26)
+Enter Image Path: exp_plate/predict_images/1236.jpg: Predicted in 14.695000 milli-seconds.
+license_plate: 86%	(left_x:  917   top_y:  707   width:  141   height:   73)
+Enter Image Path: exp_plate/predict_images/1254.jpg: Predicted in 15.796000 milli-seconds.
+license_plate: 77%	(left_x:  222   top_y:  566   width:  109   height:   50)
+license_plate: 87%	(left_x:  939   top_y:  735   width:  153   height:   73)
+Enter Image Path: exp_plate/predict_images/1237.jpg: Predicted in 16.249000 milli-seconds.
+license_plate: 30%	(left_x:  498   top_y:  560   width:   81   height:   21)
+license_plate: 95%	(left_x:  695   top_y:  562   width:   61   height:   27)
+Enter Image Path: exp_plate/predict_images/Israeli_71.jpg: Predicted in 15.673000 milli-seconds.
+license_plate: 87%	(left_x:   53   top_y:   84   width:   28   height:   11)
+Enter Image Path: exp_plate/predict_images/Israeli_117.jpg: Predicted in 15.277000 milli-seconds.
+license_plate: 100%	(left_x:   24   top_y:    5   width:  184   height:  116)
+Enter Image Path: exp_plate/predict_images/Dubai_287.jpg: Predicted in 17.349000 milli-seconds.
+license_plate: 99%	(left_x:  -39   top_y:  130   width:  846   height:  152)
+license_plate: 94%	(left_x:   78   top_y:   49   width:  614   height:  325)
+Enter Image Path: exp_plate/predict_images/Israeli_84.jpg: Predicted in 16.017000 milli-seconds.
+license_plate: 78%	(left_x:  127   top_y:   68   width:   33   height:   14)
+Enter Image Path: exp_plate/predict_images/Israeli_68.jpg: Predicted in 16.191000 milli-seconds.
+license_plate: 93%	(left_x:   95   top_y:   88   width:   49   height:   13)
+Enter Image Path: exp_plate/predict_images/Indian_10.jpg: Predicted in 16.965000 milli-seconds.
+license_plate: 99%	(left_x:  190   top_y:  144   width:  238   height:   76)
+Enter Image Path: exp_plate/predict_images/Israeli_86.jpg: Predicted in 14.390000 milli-seconds.
+license_plate: 100%	(left_x:   -6   top_y:   83   width:  116   height:   26)
+Enter Image Path: exp_plate/predict_images/Indian_280.jpg: Predicted in 16.159000 milli-seconds.
+license_plate: 83%	(left_x:  251   top_y:  254   width:  661   height:  140)
+Enter Image Path: exp_plate/predict_images/Dubai_269.jpg: Predicted in 16.554000 milli-seconds.
+license_plate: 100%	(left_x:  310   top_y:  308   width:  177   height:   43)
+Enter Image Path: exp_plate/predict_images/Dubai_252.jpg: Predicted in 16.284000 milli-seconds.
+license_plate: 100%	(left_x:  254   top_y:  430   width:  300   height:   79)
+Enter Image Path: exp_plate/predict_images/Israeli_55.jpg: Predicted in 14.877000 milli-seconds.
+license_plate: 71%	(left_x:   62   top_y:   52   width:   61   height:   13)
+Enter Image Path: exp_plate/predict_images/Israeli_83.jpg: Predicted in 14.794000 milli-seconds.
+license_plate: 100%	(left_x:   63   top_y:   64   width:   54   height:   14)
+Enter Image Path: exp_plate/predict_images/Israeli_54.jpg: Predicted in 14.649000 milli-seconds.
+license_plate: 100%	(left_x:    0   top_y:  110   width:   96   height:   51)
+Enter Image Path: exp_plate/predict_images/1253.jpg: Predicted in 15.249000 milli-seconds.
+license_plate: 97%	(left_x:  917   top_y:  697   width:  133   height:   75)
+Enter Image Path: exp_plate/predict_images/Dubai_268.jpg: Predicted in 16.347000 milli-seconds.
+license_plate: 95%	(left_x:  531   top_y:  241   width:  129   height:   35)
+Enter Image Path: exp_plate/predict_images/Indian_281.jpg: Predicted in 16.457000 milli-seconds.
+license_plate: 90%	(left_x:  145   top_y:  604   width:  292   height:  124)
+Enter Image Path: exp_plate/predict_images/Indian_27.jpg: Predicted in 16.237000 milli-seconds.
+license_plate: 51%	(left_x:   34   top_y:  185   width:  207   height:  140)
+Enter Image Path: exp_plate/predict_images/Israeli_69.jpg: Predicted in 15.029000 milli-seconds.
+license_plate: 100%	(left_x:   23   top_y:  109   width:   74   height:   41)
+Enter Image Path: exp_plate/predict_images/Indian_248.jpg: Predicted in 15.501000 milli-seconds.
+license_plate: 43%	(left_x:  233   top_y:  805   width:  192   height:   86)
+Enter Image Path: 
